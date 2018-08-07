@@ -1,2 +1,2 @@
 # HELLO-WORLD
-This is my first play about with GITHUB referenciel.
+This is my first try with GITHUB referenciel.
